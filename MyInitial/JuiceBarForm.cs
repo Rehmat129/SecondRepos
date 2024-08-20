@@ -6,7 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-
+/* This is a comment*/
 namespace MyNameSpace
 {
     public partial class JuiceBarForm : Form
